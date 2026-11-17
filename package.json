@@ -1,0 +1,19 @@
+{
+  "name": "gotovka",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Готовка — что приготовить из продуктов дома",
+  "scripts": {
+    "sync": "cap sync",
+    "android": "cap open android",
+    "assets": "capacitor-assets generate --android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.0.0"
+  }
+}

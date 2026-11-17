@@ -1,0 +1,16 @@
+{
+  "appId": "com.gotovka.app",
+  "appName": "Готовка",
+  "webDir": "www",
+  "backgroundColor": "#ffffff",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 600,
+      "backgroundColor": "#ffffff",
+      "showSpinner": false
+    }
+  }
+}
